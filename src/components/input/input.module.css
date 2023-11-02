@@ -1,0 +1,10 @@
+.input {
+  min-width: 200px;
+  font-size: 30px;
+  outline: none;
+  border: 3px solid #3fdaa4;
+  border-radius: 3px;
+  transition: border 0.3s;
+  background-color: transparent;
+  color: #fff;
+}

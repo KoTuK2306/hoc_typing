@@ -1,0 +1,10 @@
+.withValidate_p {
+  font-size: 18px;
+  color: #d54649;
+}
+
+.withValidate_p__Wrapper input,
+.withValidate_p__Wrapper input:focus,
+.withValidate_p__Wrapper input:hover {
+  border: 3px solid #d54649;
+}
